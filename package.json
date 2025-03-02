@@ -30,6 +30,7 @@
     "webpack-dev-server": "^5.2.0"
   },
   "dependencies": {
-    "framer-motion": "^12.4.7"
+    "framer-motion": "^12.4.7",
+    "git": "^0.1.5"
   }
 }
